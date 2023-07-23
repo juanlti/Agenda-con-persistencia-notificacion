@@ -11,7 +11,7 @@
 ## About Laravel
 
 ![home de notificaciones](https://github.com/juanlti/Notificaciones/assets/47389717/e1eacad7-6158-4e98-9cd7-6d9c1ab6a3dd)
-![Example](https://github.com/juanlti/Agenda-con-persistencia-notificacion/assets/47389717/d6fd3e92-639d-43d7-a90a-e1f7aacfbced)
+![Example](https://github.com/juanlti/Agenda-con-persistencia-notificacion/assets/47389717/8aafee50-430a-4b3a-8a62-207b15a7cf00)
 
 
 
