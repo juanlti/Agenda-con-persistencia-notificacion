@@ -9,6 +9,7 @@
 </p>
 
 ## About Laravel
+Web en gitHub pages estaticas: https://juanlti.github.io/Agenda-con-persistencia-notificacion/
 
 ![home de notificaciones](https://github.com/juanlti/Notificaciones/assets/47389717/e1eacad7-6158-4e98-9cd7-6d9c1ab6a3dd)
 ![Example](https://github.com/juanlti/Agenda-con-persistencia-notificacion/assets/47389717/8aafee50-430a-4b3a-8a62-207b15a7cf00)
